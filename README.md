@@ -1,7 +1,9 @@
 # Windows69 Chat-Bot
+#### Created for CITS3403 Semester 1 2023
 
 Contributors:
 Ari (Katariah), Peter Tanning , Nicholas Davies and  Div 
+
 
 Windows69 Chat-Bot is an authentic Windows 98 style chat experience. Engage in real-time chats with other users who share your great taste. Invite and customise your own AI chatbots with distinctive personalities. Ever wondered what Clippy thinks about the current economic state of the world? Now you can find out!
 
